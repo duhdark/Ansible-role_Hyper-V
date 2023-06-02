@@ -1,4 +1,3 @@
-# ansible-hyperv
 # http://www.nicktailor.com/?p=1561
 
 - name: Manage Hyper-V
